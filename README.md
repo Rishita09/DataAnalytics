@@ -3,6 +3,8 @@
 **Project Overview**
 This project is an exploration into text classification, focusing on categorizing YouTube video transcripts into five distinct categories: Laptops, Tech Accessories, Home Automation, Smartphones, and Tech Wearables. The project demonstrates the complete process, from data collection and preprocessing to model implementation and evaluation.
 
+You can read my blog on this at https://medium.com/@rishitashah2803/text-classification-with-real-data-67423b8e26e7
+
 **Key Steps Covered**
 - Data Collection: Extracted transcripts using the YouTubeTranscriptApi.
 - Preprocessing: Breaking down transcripts into sentences, removing words less than 2 letters long, and handling class imbalance using SMOTE.
